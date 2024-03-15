@@ -1,4 +1,4 @@
-export const HOST = "https://whatsapp-backend-1.onrender.com";
+export const HOST = "https://whatsapp-backend-seven.vercel.app";
 
 const AUTH_ROUTE = `${HOST}/api/auth`;
 
